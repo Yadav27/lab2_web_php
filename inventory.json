@@ -1,0 +1,32 @@
+{
+    "Milk": {
+        "type": "Dairy",
+        "price": "10",
+        "expiry_date": "2025-01-25"
+    },
+    "Bread": {
+        "type": "Bakery",
+        "price": "4",
+        "expiry_date": "2025-01-25"
+    },
+    "Egg": {
+        "type": "Poultry",
+        "price": "12",
+        "expiry_date": "2025-01-25"
+    },
+    "Butter": {
+        "type": "Dairy",
+        "price": "8",
+        "expiry_date": "2025-01-25"
+    },
+    "Coke": {
+        "type": "Beverage",
+        "price": "3",
+        "expiry_date": "2025-01-25"
+    },
+    "Chips": {
+        "type": "Snacks",
+        "price": "5",
+        "expiry_date": "2025-01-27"
+    }
+}
